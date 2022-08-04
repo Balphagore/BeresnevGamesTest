@@ -1,0 +1,16 @@
+{
+    "name": "Game",
+    "rootNamespace": "BeresnevGamesTest.Game",
+    "references": [
+        "GUID:449a2d5a39e1843479ea9ed8221da3a0"
+    ],
+    "includePlatforms": [],
+    "excludePlatforms": [],
+    "allowUnsafeCode": false,
+    "overrideReferences": false,
+    "precompiledReferences": [],
+    "autoReferenced": true,
+    "defineConstraints": [],
+    "versionDefines": [],
+    "noEngineReferences": false
+}
